@@ -1,0 +1,2 @@
+<h1>📄Descrição</h1>
+<p align="justify">O projeto consiste em um sistema de gerenciamento de matrículas e pagamentos de uma academia, no qual é possível adicionar novos membros, verificar o status do pagamento e registrar os pagamentos dos membros.
